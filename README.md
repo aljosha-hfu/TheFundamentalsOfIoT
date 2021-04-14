@@ -6,3 +6,5 @@ Code for the course The Fundamentals of IoT
 Dimensions of the sign (400mm x 300mm)
 
 Arrangement depends on the size of the speaker
+
+## [Use-Cases](https://github.com/aljosha-hfu/TheFundamentalsOfIoT/blob/main/Use-Case%20Vogel-Wandertafen.pdf)
