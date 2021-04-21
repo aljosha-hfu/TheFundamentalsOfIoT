@@ -5,7 +5,9 @@ Code and concepts for the course The Fundamentals of IoT
 
 
 
-### [Use-Cases](https://github.com/aljosha-hfu/TheFundamentalsOfIoT/blob/main/Use-Case%20Vogel-Wandertafen.pdf)
+### Use-Cases
+![image](https://user-images.githubusercontent.com/12802765/115590449-42f2b900-a2d1-11eb-912c-33372cfdc4bf.png)
+
 
 ### Construction plan
 
