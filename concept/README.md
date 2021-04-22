@@ -15,6 +15,8 @@ Code and concepts for the course The Fundamentals of IoT
 
 
 ### Further content
+https://github.com/JuulAnd/The-Fundamentals-of-IoT
+
 https://github.com/manuel-pross/fundOfIoT_manuel_daniel
 
 ### Outdated
